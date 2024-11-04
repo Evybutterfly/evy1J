@@ -5,7 +5,12 @@ body{
     font-family: "Caveat", cursive;
     margin-bottom: 100px;
 }
-
+header{
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 35px;
+    color: black;
+}
 .chamada{
     background: rgb(165, 102, 165);
     margin-top: 80px;
