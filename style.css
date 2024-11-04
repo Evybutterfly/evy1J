@@ -1,5 +1,13 @@
+body{
+    color: black;
+    background: rgb(97, 0, 97)
+    margin: 0px;
+    font-family: "Caveat", cursive;
+    margin-bottom: 100px;
+}
+
 .chamada{
-    background: rgb(207, 142, 207);
+    background: rgb(165, 102, 165);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
