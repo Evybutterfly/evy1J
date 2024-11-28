@@ -41,7 +41,7 @@ h1{
     height: 200px;
 }
 .categoria-videos img:hover{
-    opacity: 1,0;
+    opacity: 1.0;
     border: 3px solid rgb(92, 19, 92);
 }
 
